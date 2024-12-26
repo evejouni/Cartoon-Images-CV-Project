@@ -13,3 +13,6 @@ It consists of several files:
 
 - The model is saved in the generator.pth file.
 
+We used this dataset from Kaggle : https://www.kaggle.com/datasets/tommykamaz/faces-dataset-small.
+
+
