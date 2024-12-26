@@ -11,5 +11,5 @@ It consists of several files:
 
 - The interface is located in the templates folder
 
-- The template is saved in the generator.pth file.
+- The model is saved in the generator.pth file.
 
